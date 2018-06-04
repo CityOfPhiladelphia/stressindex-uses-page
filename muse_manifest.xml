@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-page" resolutions="1x" timestamp="1528129070247">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-page" resolutions="1x" timestamp="1528130443860">
   <folder name="css">
     <file name="site_global.css" crc="8817582"/>
-    <file name="index.css" crc="475494280" ref="index"/>
-    <file name="nomq_index.css" crc="275349437" ref="index"/>
+    <file name="index.css" crc="53962298" ref="index"/>
+    <file name="nomq_index.css" crc="3941430899" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,5 +27,5 @@
     <file name="bell_poster_.png" crc="524533474" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3784132938" seo="true" mt="1528129033755" redirect="true"/>
+  <file name="index.html" crc="4161023878" seo="true" mt="1528130432647" redirect="true"/>
 </manifest>
